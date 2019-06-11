@@ -1,0 +1,2 @@
+# notepad
+高仿windows原生记事本，和windows原生记事本近乎一样的功能和使用体验
